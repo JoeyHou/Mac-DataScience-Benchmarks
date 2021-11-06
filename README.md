@@ -41,17 +41,17 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 
 | Task       						| MBP 14 	| MBP 13 | MBA 13 |
 | ---------------------			| ------ 	| ------ | ------ |
-| Pure Python 			 		| 138s		| 162s | 163s|
-| Pandas - Loading   			| 74s		| 136s | 138s|
+| Pure Python 			 		| 138s		| 182s | 163s|
+| Pandas - Loading   			| 74s		| 149s | 138s|
 | Pandas - Data Manipulation  | 91s 		| 100s | 112s|
 | Pandas - Groupby 				| 6.96s   | 10s | 9s |
 | Pandas - Query   				| 91s 		| 177s| 92s |
 | Numpy   						| 147s 	| 77s | 151s|
 | SkLearn - DT (fit)			| 8s		| 14s | 8s|
-| SkLearn - DT (grid earch)			| 26s		| 92s | 26s|
+| SkLearn - DT (grid earch)			| 48s		| 92s | 102s|
 | SkLearn - SVM (fit) 			| 26s	 	| 35s | 27s|
 | SkLearn - SVM (grid search) 		| 797s    | 1089s | 859s|
-| SkLearn - SVM (grid search - 8 thread parallel) 		| 197s    | 73s | 292s|
+| SkLearn - SVM (grid search - 8 thread parallel) 		| 197s    | 328s | 292s|
 | PyTorch - MLP 					| 66s 		| 96s| 69s|
 
 ## Get Started

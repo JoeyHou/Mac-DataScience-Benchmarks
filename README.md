@@ -19,7 +19,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 | ------- | -------------| ------------ | -------- | -------- |
 | CPU 	  | Intel I5 (2.0 GHz) | M1 (8 Core) | M1 Pro (8 Core) | M2 (8 Core)
 | Memory  | 16 GB	| 8 GB	| 16 GB | 16 GB |
-| Storage | 512 GB	| 256 GB | 512 GB | 521 GB|
+| Storage | 512 GB	| 256 GB | 512 GB | 512 GB|
 | Time    | Mid 2020 | Late 2020 | Late 2021 | Mid 2022 |
 
 

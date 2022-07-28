@@ -46,7 +46,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 | Pure Python 			 	| 182s		| 163s | 138s| **128s** |
 | Pandas - Loading   		| 149s		| 138s | 74s| **49s** |
 | Pandas - Data Manipulation | 100s 		| 112s | **91s**| 93s | 
-| Pandas - Groupby 			| 10s   | 9s | **6.96s** | 4s| 
+| Pandas - Groupby 			| 10s   | 9s | 6.96s | **4s**| 
 | Pandas - Query   			| 177s 		| 92s| **91s** | 99s |
 | Numpy   					| **77s** 	| 151s | 147s| 138s|
 | SkLearn - DT (fit)		| 14s		| 8s | 8s| **4s** |

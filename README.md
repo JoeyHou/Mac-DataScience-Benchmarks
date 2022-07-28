@@ -11,15 +11,17 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 
 ## Test Machines
 - MacBook Pro (14' Late 2021): MBP 14
-- MacBook Air (14' Late 2020): MBP 13
+- MacBook Air (13' Late 2020): MBP M1
 - MacBook Pro (13' Mid 2020): MBA 13
+- MacBook Air (13' Mid 2022): MBA M2
 
 | Spec    | MBP 14 			| MBP 13		  | MBA M1| MBA M2| 
 | -------	| --------------	| ------------ | -------- | -------- |
 | CPU 		| M1 Pro (8 Core)| Intel I5 2 GHz | M1 (8 Core) | M1 (8 Core)
 | Memory	| 16 GB			| 16 GB		| 8 GB | 16 GB |
 | Storage	| 512 GB			| 512 GB		| 256 GB | 521 GB|
-| Year		| Late 2021 		| Mid 2020 	| Late 2020| Mid 2022 |
+| Test Time	| Nov. 2021		| Nov. 2021 | Nov. 2021 | Jul. 2022 |
+| 
 
 ## Task Description
 - Pure Python

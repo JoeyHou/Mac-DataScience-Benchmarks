@@ -19,8 +19,8 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 | Spec    | MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| MBA-M2-16GB |
 | ------- | -------------| ------------ | -------- | -------- |  -------- |
 | CPU 	  | Intel I5 (2.0 GHz) | M1 (8 Core) | M1 Pro (8 Core) | M2 (8 Core) | M2 (8 Core) |
-| Memory  | 16 GB	| 8 GB	| 16 GB | 16 GB |16 GB |
-| Storage | 512 GB	| 256 GB | 512 GB | 512 GB|512 GB |
+| Memory  | 16 GB	| 8 GB	| 16 GB | 8 GB |16 GB |
+| Storage | 512 GB	| 256 GB | 512 GB | 512 GB| 512 GB |
 | Time    | Mid 2020 | Late 2020 | Late 2021 | Mid 2022 |Mid 2022 |
 
 
@@ -43,7 +43,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 ## Result
 
 | Task       				| MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| MBA-M2-16G |
-| ---------------------		| ------ 	| ------ | ------ | ------ |
+| ---------------------		| ------ 	| ------ | ------ | ------ | ------ |
 | Pure Python 			 	| 182s		| 163s | 138s| **121s** | 128s|
 | Pandas - Loading   		| 149s		| 138s | 74s| **49s** | **49s** |
 | Pandas - Data Manipulation | 100s 		| 112s | 91s|  88s | 93s |

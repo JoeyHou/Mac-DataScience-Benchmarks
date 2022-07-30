@@ -52,7 +52,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 | Numpy   					| **77s** 	| 151s | 147s| 137s | 138s|
 | SkLearn - DT (fit)		| 14s		| 8s | 8s| 4s | **4s** |
 | SkLearn - DT (grid earch)	| 92s		| 102s | **48s** | 39s | 56s |
-| SkLearn - SVM (fit) 		| 35s	 	| 27s | **26s**| 40s |
+| SkLearn - SVM (fit) 		| 35s	 	| 27s | **26s**| 40s | 40s|
 | SkLearn - SVM (grid search) | 1089s    | 859s | **797s** | 943s | 945s |
 | SkLearn - SVM (grid search - 8 thread parallel) 		| 328s    | 292s | **197s**| 292s | 290s |
 | PyTorch - MLP 			| 96s 		| 69s| 66s| **48s**| **48s**|

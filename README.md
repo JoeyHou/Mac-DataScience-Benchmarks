@@ -13,15 +13,14 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 - MacBook Pro (13' Mid 2020): MBP-13
 - MacBook Air (13' Late 2020): MBA-M1
 - MacBook Pro (14' Late 2021): MBP-14
-- MacBook Air (13' Mid 2022): MBA-M2 (8GB RAM)
-- MacBook Air (13' Mid 2022): MBA-M2 (16GB RAM)
+- MacBook Air (13' Mid 2022): MBA-M2
 
-| Spec    | MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| MBA-M2-16GB |
-| ------- | -------------| ------------ | -------- | -------- |  -------- |
-| CPU 	  | Intel I5 (2.0 GHz) | M1 (8 Core) | M1 Pro (8 Core) | M2 (8 Core) | M2 (8 Core) |
-| Memory  | 16 GB	| 8 GB	| 16 GB | 8 GB |16 GB |
-| Storage | 512 GB	| 256 GB | 512 GB | 512 GB| 512 GB |
-| Time    | Mid 2020 | Late 2020 | Late 2021 | Mid 2022 |Mid 2022 |
+| Spec    | MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| 
+| ------- | -------------| ------------ | -------- | -------- |
+| CPU 	  | Intel I5 (2.0 GHz) | M1 (8 Core) | M1 Pro (8 Core) | M2 (8 Core) | 
+| Memory  | 16 GB	| 8 GB	| 16 GB | 16 GB |
+| Storage | 512 GB	| 256 GB | 512 GB | 512 GB|
+| Time    | Mid 2020 | Late 2020 | Late 2021 | Mid 2022 |
 
 
 ## Task Description
@@ -42,21 +41,21 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 
 ## Result
 
-| Task       				| MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| MBA-M2-16G |
-| ---------------------		| ------ 	| ------ | ------ | ------ | ------ |
-| Pure Python 			 	| 182s		| 163s | 138s| **121s** | 128s|
-| Pandas - Loading   		| 149s		| 138s | 74s| **49s** | **49s** |
-| Pandas - Data Manipulation | 100s 		| 112s | 91s|  88s | 93s |
-| Pandas - Groupby 			| 10s   | 9s | 6.96s | **4s** | **4s**| 
-| Pandas - Query   			| 177s 		| 92s| **91s** | 158s | 99s |
-| Numpy   					| **77s** 	| 151s | 147s| 137s | 138s|
-| SkLearn - DT (fit)		| 14s		| 8s | 8s| 4s | **4s** |
-| SkLearn - DT (grid earch)	| 92s		| 102s | **48s** | 39s | 56s |
-| SkLearn - SVM (fit) 		| 35s	 	| 27s | **26s**| 40s | 40s|
-| SkLearn - SVM (grid search) | 1089s    | 859s | **797s** | 943s | 945s |
-| SkLearn - SVM (grid search - 8 thread parallel) 		| 328s    | 292s | **197s**| 292s | 290s |
-| PyTorch - MLP 			| 96s 		| 69s| 66s| **48s**| **48s**|
-| Test Time	| Nov. 2021| Nov. 2021 | Nov. 2021 | Jul. 2022 | Jul. 2022 |
+| Task       				| MBP-13 | MBA M1 | MBP-14 |  MBA-M2-16G |
+| ---------------------		| ------ 	| ------ | ------ | ------ | 
+| Pure Python 			 	| 182s		| 163s | 138s|  128s|
+| Pandas - Loading   		| 149s		| 138s | 74s|  **49s** |
+| Pandas - Data Manipulation | 100s 		| 112s | 91s|  93s |
+| Pandas - Groupby 			| 10s   | 9s | 6.96s |  **4s**| 
+| Pandas - Query   			| 177s 		| 92s| **91s** |  99s |
+| Numpy   					| **77s** 	| 151s | 147s|  138s|
+| SkLearn - DT (fit)		| 14s		| 8s | 8s|  **4s** |
+| SkLearn - DT (grid earch)	| 92s		| 102s | **48s** |  56s |
+| SkLearn - SVM (fit) 		| 35s	 	| 27s | **26s**|  40s|
+| SkLearn - SVM (grid search) | 1089s    | 859s | **797s** |  945s |
+| SkLearn - SVM (grid search - 8 thread parallel) 		| 328s    | 292s | **197s**|  290s |
+| PyTorch - MLP 			| 96s 		| 69s| 66s|  **48s**|
+| Test Time	| Nov. 2021| Nov. 2021 | Nov. 2021 | Jul. 2022 | 
 
 
 

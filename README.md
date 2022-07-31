@@ -41,7 +41,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 
 ## Result
 
-| Task       				| MBP-13 | MBA M1 | MBP-14 |  MBA-M2-16G |
+| Task       				| MBP-13 | MBA M1 | MBP-14 |  MBA-M2 |
 | ---------------------		| ------ 	| ------ | ------ | ------ | 
 | Pure Python 			 	| 182s		| 163s | 138s|  128s|
 | Pandas - Loading   		| 149s		| 138s | 74s|  **49s** |

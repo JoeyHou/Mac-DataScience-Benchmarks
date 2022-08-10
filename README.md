@@ -15,7 +15,7 @@ Dario Radečić](https://towardsdatascience.com/are-the-new-m1-macbooks-any-good
 - MacBook Pro (14' Late 2021): MBP-14
 - MacBook Air (13' Mid 2022): MBA-M2
 
-| Spec    | MBP-13 | MBA M1 | MBP-14 | MBA-M2-8GB| 
+| Spec    | MBP-13 | MBA M1 | MBP-14 | MBA-M2| 
 | ------- | -------------| ------------ | -------- | -------- |
 | CPU 	  | Intel I5 (2.0 GHz) | M1 (8 Core) | M1 Pro (8 Core) | M2 (8 Core) | 
 | Memory  | 16 GB	| 8 GB	| 16 GB | 16 GB |
